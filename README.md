@@ -13,7 +13,7 @@ My projects focus on transforming complex data into business insights through SQ
 ## Power BI KPI & Hotel Performance Dashboard
 Interactive Power BI dashboards for revenue tracking, operational analytics, forecasting accuracy, RevPAR analysis, and business performance optimization.
 
-🔗 [View Project](PASTE_YOUR_LINK_HERE)
+🔗 [View Project](https://github.com/Stacccyli/Analytics-Portfolio)
 
 ---
 
